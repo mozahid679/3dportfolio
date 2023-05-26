@@ -1,2 +1,3 @@
 # 3dportfolio
-<h3 align="center"><a href="https://mozahid.com/">Mozahid.com</a></h3>
+*To view
+<h3 align="center"><a href="https://mozahiddev.netlify.app/">Mozahid.com</a></h3>
